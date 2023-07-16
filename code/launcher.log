@@ -1,0 +1,5 @@
+2023-07-13 22:26:30,269 ansys.fluent.launcher INFO     Launching Fluent with cmd: /home/lz/Software/ansys_inc/v231/fluent/bin/fluent 3ddp -t2  -sifile="/tmp/serverinfo-452ri6yj.txt" -nm
+2023-07-13 22:26:31,281 ansys.fluent.launcher INFO     Waiting for Fluent to launch...99 seconds remaining
+2023-07-13 22:26:32,281 ansys.fluent.launcher INFO     Waiting for Fluent to launch...98 seconds remaining
+2023-07-13 22:26:33,281 ansys.fluent.launcher INFO     Waiting for Fluent to launch...97 seconds remaining
+2023-07-13 22:26:34,282 ansys.fluent.launcher INFO     Fluent process is successfully launched.
